@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+//query min between (i, j)
 int n, m;
 int M[1000][100006], a[100006];
 
